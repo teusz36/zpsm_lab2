@@ -1,0 +1,22 @@
+{
+  "name": "zpsmlab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/Users/ki_01/Documents/Mateusz Tarchala/zpsm_lab2/zpsm_lab2/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teusz36/zpsm_lab2.git"
+  },
+  "author": "Mateusz Tarchała",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teusz36/zpsm_lab2/issues"
+  },
+  "homepage": "https://github.com/teusz36/zpsm_lab2#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
